@@ -1,0 +1,3 @@
+Created file with Ubuntu command line through powershell
+Opened through code .
+Edited with VSC for testing purposes
